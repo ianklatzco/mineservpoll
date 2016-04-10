@@ -1,2 +1,2 @@
 cd /home/ian/server/mineservpoll
-sudo python -m SimpleHTTPServer 80
+python -m SimpleHTTPServer 8000
